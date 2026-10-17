@@ -1,4 +1,4 @@
-Hi, I'm Amay Bhardwaj 👋
+## Hi, I'm Amay Bhardwaj 👋
 
 Computer Science @ UC Santa Cruz · Software Engineering · AI/ML
 
